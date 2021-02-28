@@ -1,4 +1,7 @@
+% Script to automatically process FSS testing data to calibrate the sensor.
+% Point to the data directory in inputs. 
 
+% Author: Sarthak Srivastava
 
 %%------ INPUTS ------------
 
